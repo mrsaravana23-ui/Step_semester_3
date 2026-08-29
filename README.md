@@ -1,6 +1,6 @@
 # Step_semester_3
 
-Semester 3 Version Control & Daily Workflow Standard Repository.
+Semester 3 Version Control Standard Repository.
 
 ## Date: 29-08-2026
 
